@@ -1,0 +1,10 @@
+git init
+git remote -v
+git remote add main https://github.com/MD-Shibli-Mollah/JBLR22
+git branch
+git checkout main
+git add .
+ls
+git commit -m "my commit"
+git branch -D master
+
