@@ -1,0 +1,3 @@
+git init
+git remote -v
+git remote add main https://github.com/MD-Shibli-Mollah/JBLR22
