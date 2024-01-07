@@ -8,3 +8,6 @@ ls
 git commit -m "my commit"
 git branch -D master
 
+Special ----
+git pull origin main --allow-unrelated-histories
+git push -u origin main
