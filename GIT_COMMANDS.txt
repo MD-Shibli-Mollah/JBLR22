@@ -6,9 +6,5 @@ git checkout main
 git add .
 ls
 git commit -m "my commit"
-
-md.ta.shibli@gmail.com
-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
-
 git branch -D master
 
