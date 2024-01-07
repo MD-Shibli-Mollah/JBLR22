@@ -1,3 +1,14 @@
 git init
 git remote -v
 git remote add main https://github.com/MD-Shibli-Mollah/JBLR22
+git branch
+git checkout main
+git add .
+ls
+git commit -m "my commit"
+
+md.ta.shibli@gmail.com
+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
+
+git branch -D master
+
