@@ -1,5 +1,5 @@
-* @ValidationCode : MjotMTM3NzYxODQwNDpDcDEyNTI6MTcwNDE5MjU2NDMzNTpuYXppaGFyOi0xOi0xOjA6MDpmYWxzZTpOL0E6REVWXzIwMTcxMC4wOi0xOi0x
-* @ValidationInfo : Timestamp         : 02 Jan 2024 16:49:24
+* @ValidationCode : MjoxNTgzNzI0NjU5OkNwMTI1MjoxNzA0NzEyOTkyMDMzOm5hemloYXI6LTE6LTE6MDowOmZhbHNlOk4vQTpERVZfMjAxNzEwLjA6LTE6LTE=
+* @ValidationInfo : Timestamp         : 08 Jan 2024 17:23:12
 * @ValidationInfo : Encoding          : Cp1252
 * @ValidationInfo : User Name         : nazihar
 * @ValidationInfo : Nb tests success  : N/A
@@ -24,7 +24,7 @@ SUBROUTINE GB.JBL.BA.ATM.ACC.MARKER
 *-----------------------------------------------------------------------------
 
 *-----------------------------------------------------------------------------
-* Subroutine Description: THIS ROUTINE IS USED FOR CRMS -CHECK FT BEFORE AUTHRISED THE REQUEST
+* Subroutine Description: THIS ROUTINE IS USED FOR CRMS
 * Subroutine Type: BEFORE AUTH
 * Attached To    : EB.JBL.ATM.CARD.MGT
 * Attached As    : BEFORE AUTH ROUTINE

@@ -1,5 +1,5 @@
-* @ValidationCode : MjoxOTYxNDM5ODQ1OkNwMTI1MjoxNzA0Mjg2OTQ2MzA3Om5hemloYXI6LTE6LTE6MDowOmZhbHNlOk4vQTpERVZfMjAxNzEwLjA6LTE6LTE=
-* @ValidationInfo : Timestamp         : 03 Jan 2024 19:02:26
+* @ValidationCode : MjotNzQ1Mjk0NTg2OkNwMTI1MjoxNzA0NzEwOTY5OTM3Om5hemloYXI6LTE6LTE6MDowOmZhbHNlOk4vQTpERVZfMjAxNzEwLjA6LTE6LTE=
+* @ValidationInfo : Timestamp         : 08 Jan 2024 16:49:29
 * @ValidationInfo : Encoding          : Cp1252
 * @ValidationInfo : User Name         : nazihar
 * @ValidationInfo : Nb tests success  : N/A
@@ -18,9 +18,9 @@
 * Deploy Date: 12 JAN 2017
 *-----------------------------------------------------------------------------
 SUBROUTINE GB.JBL.E.NOF.ATM.ACC.CUS.VIEW(Y.RETURN)
-
+*-----------------------------------------------------------------------------
 * Modification History :
-* 1) *List of Closed deposit accounts for given period
+* 1)
 * Date :31/12/2023
 * Modification Description : RETROFIT from TAFC to TAFJ
 * Modified By : MD Shibli Mollah - NITSL
@@ -29,7 +29,7 @@ SUBROUTINE GB.JBL.E.NOF.ATM.ACC.CUS.VIEW(Y.RETURN)
 * Subroutine Type: NOFILE
 * Attached To    : NOFILE.JBL.SS.ATM.ACC.CUS.VIEW
 * Attached As    : NOF ENQUIRY ROUTINE
-* TAFC Routine Name :ATM.ACC.CHK - R09
+* TAFC Routine Name :ATM.ACC.CUS.VIEW - R09
 *-----------------------------------------------------------------------------
     $INSERT I_COMMON
     $INSERT I_EQUATE
